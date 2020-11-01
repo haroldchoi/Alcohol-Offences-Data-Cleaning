@@ -1,1 +1,2 @@
-# Alcohol-purchased-and-Offences-
+# Alcohol-purchased-and-Offences
+## Does a higher alcohol purchased lead to more offences committed in the state of Victoria, Australia. Through this investigation I will bring you through the data cleaning process such as importing, cleaning, manipulating and joining datasets to understand if this hypothesis holds. In addition, I have used outliers detection and removal methods that will help normalize the datasets to make the analysis more robust. 
